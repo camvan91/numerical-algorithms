@@ -2,7 +2,8 @@
 Justin Solomon, Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics
 
 ## [About the book](https://www.amazon.com/Numerical-Algorithms-Computer-Learning-Paperback/dp/B014I7TJ66/ref=sr_1_fkmrnull_3?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=Numerical+Algorithms+Methods+for+Computer+Vision%2C+Machine+Learning%2C+and+Graphics&qid=1556957405&s=gateway&sr=8-3-fkmrnull)
-<img src="book_covers/numerical_algorithms_cover.png" height="300">
+
+<img align="right" src="images/numerical_algorithms_cover.png" height="420">
 
 ## [Contents](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/book_contents)  
 
