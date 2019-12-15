@@ -27,7 +27,6 @@ Implement the main algorithms from scratch with python in the book-"Numerical Al
    - [Chapter 14: Integration and Differentiation](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/14.%20integration-and-differentiation)
 
 ## TODO
-
 - [x] write the main algorithms in the book
 - [ ] add some important comments among codes
 - [ ] add some bonuses about approximating distributions
