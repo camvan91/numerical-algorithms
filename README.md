@@ -19,3 +19,9 @@ Justin Solomon, Numerical Algorithms Methods for Computer Vision, Machine Learni
  - __Part III: Nonlinear Techniques__
    - [Chapter 8: Nonlinear Systems](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/book_contents/8.nonlinear-systems)
    - [Chapter 9: Unconstrained Optimization](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/book_contents/9.unconstrained-optimization)
+   - [Chapter 10: Constrained Optimization](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/10.constrained-optimization)
+   - [Chapter 11: Iterative Linear Solvers](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/11.iterative-linear-solvers)
+   - [Chapter 12: Specialized Optimization Methods](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/12.specialized-optimization-methods)
+ - __Part IV: Functions, Derivatives, and Integrals__
+   - [Chapter 13: Interpolation](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/13.interpolation)
+   - [Chapter 14: Integration and Differentiation](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/14.%20integration-and-differentiation)
