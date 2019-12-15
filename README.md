@@ -1,5 +1,5 @@
 # Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics
-Implement the main algorithms from scratch with python in the book-"Numerical Algorithms Methods" by Justin Solomon. The author also open a course called "cs205a" in the Standford University. You can assess this course from here(https://www.youtube.com/watch?v=dkT8yuI2d50&list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)
+Implement the main algorithms from scratch with python in the book-"Numerical Algorithms Methods" by Justin Solomon. The author also open a course called "cs205a" in the Standford University. You can assess this course from [here](https://www.youtube.com/watch?v=dkT8yuI2d50&list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)
 
 ## [About the book](https://www.amazon.com/Numerical-Algorithms-Computer-Learning-Paperback/dp/B014I7TJ66/ref=sr_1_fkmrnull_3?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=Numerical+Algorithms+Methods+for+Computer+Vision%2C+Machine+Learning%2C+and+Graphics&qid=1556957405&s=gateway&sr=8-3-fkmrnull)
 
