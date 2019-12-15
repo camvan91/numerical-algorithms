@@ -1,5 +1,5 @@
 # Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics
-Justin Solomon, Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics
+Implement the main algorithms from scratch with python in the book-"Numerical Algorithms Methods" by Justin Solomon.
 
 ## [About the book](https://www.amazon.com/Numerical-Algorithms-Computer-Learning-Paperback/dp/B014I7TJ66/ref=sr_1_fkmrnull_3?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=Numerical+Algorithms+Methods+for+Computer+Vision%2C+Machine+Learning%2C+and+Graphics&qid=1556957405&s=gateway&sr=8-3-fkmrnull)
 
@@ -25,3 +25,9 @@ Justin Solomon, Numerical Algorithms Methods for Computer Vision, Machine Learni
  - __Part IV: Functions, Derivatives, and Integrals__
    - [Chapter 13: Interpolation](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/13.interpolation)
    - [Chapter 14: Integration and Differentiation](https://github.com/TaiChiTiger/numerical-algorithms/tree/master/notebooks/14.%20integration-and-differentiation)
+
+## TODO
+
+- [ ] write the remaining algorithms in last two chapters
+- [ ] add some important comments among codes
+- [ ] add some bonuses about approximating distributions
