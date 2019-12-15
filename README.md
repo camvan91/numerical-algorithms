@@ -28,6 +28,6 @@ Implement the main algorithms from scratch with python in the book-"Numerical Al
 
 ## TODO
 
-- [ ] write the main algorithms in the book
+- [x ] write the main algorithms in the book
 - [ ] add some important comments among codes
 - [ ] add some bonuses about approximating distributions
